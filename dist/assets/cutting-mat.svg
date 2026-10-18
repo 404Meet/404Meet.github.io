@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="2048" viewBox="0 0 1200 1200">
+  <!-- Transparent drafting overlay. The scene supplies the blueprint blue. -->
+  <g fill="none" stroke="#C4C9D4" stroke-width="1.4" stroke-linecap="round">
+    <path d="M 65 110 V 1090 H 1130" />
+    <path d="M 82 110 V 1073 H 1130" opacity="0.45"/>
+    <path d="M 90 1090 v -18" />
+    <path d="M 100 1090 v -5" />
+    <path d="M 110 1090 v -5" />
+    <path d="M 120 1090 v -5" />
+    <path d="M 130 1090 v -5" />
+    <path d="M 140 1090 v -11" />
+    <path d="M 150 1090 v -5" />
+    <path d="M 160 1090 v -5" />
+    <path d="M 170 1090 v -5" />
+    <path d="M 180 1090 v -5" />
+    <path d="M 190 1090 v -18" />
+    <path d="M 200 1090 v -5" />
+    <path d="M 210 1090 v -5" />
+    <path d="M 220 1090 v -5" />
+    <path d="M 230 1090 v -5" />
+    <path d="M 240 1090 v -11" />
+    <path d="M 250 1090 v -5" />
+    <path d="M 260 1090 v -5" />
+    <path d="M 270 1090 v -5" />
+    <path d="M 280 1090 v -5" />
+    <path d="M 290 1090 v -18" />
+    <path d="M 300 1090 v -5" />
+    <path d="M 310 1090 v -5" />
+    <path d="M 320 1090 v -5" />
+    <path d="M 330 1090 v -5" />
+    <path d="M 340 1090 v -11" />
+    <path d="M 350 1090 v -5" />
+    <path d="M 360 1090 v -5" />
+    <path d="M 370 1090 v -5" />
+    <path d="M 380 1090 v -5" />
+    <path d="M 390 1090 v -18" />
+    <path d="M 400 1090 v -5" />
+    <path d="M 410 1090 v -5" />
+    <path d="M 420 1090 v -5" />
+    <path d="M 430 1090 v -5" />
+    <path d="M 440 1090 v -11" />
+    <path d="M 450 1090 v -5" />
+    <path d="M 460 1090 v -5" />
+    <path d="M 470 1090 v -5" />
+    <path d="M 480 1090 v -5" />
+    <path d="M 490 1090 v -18" />
+    <path d="M 500 1090 v -5" />
+    <path d="M 510 1090 v -5" />
+    <path d="M 520 1090 v -5" />
+    <path d="M 530 1090 v -5" />
+    <path d="M 540 1090 v -11" />
+    <path d="M 550 1090 v -5" />
+    <path d="M 560 1090 v -5" />
+    <path d="M 570 1090 v -5" />
+    <path d="M 580 1090 v -5" />
+    <path d="M 590 1090 v -18" />
+    <path d="M 600 1090 v -5" />
+    <path d="M 610 1090 v -5" />
+    <path d="M 620 1090 v -5" />
+    <path d="M 630 1090 v -5" />
+    <path d="M 640 1090 v -11" />
+    <path d="M 650 1090 v -5" />
+    <path d="M 660 1090 v -5" />
+    <path d="M 670 1090 v -5" />
+    <path d="M 680 1090 v -5" />
+    <path d="M 690 1090 v -18" />
+    <path d="M 700 1090 v -5" />
+    <path d="M 710 1090 v -5" />
+    <path d="M 720 1090 v -5" />
+    <path d="M 730 1090 v -5" />
+    <path d="M 740 1090 v -11" />
+    <path d="M 750 1090 v -5" />
+    <path d="M 760 1090 v -5" />
+    <path d="M 770 1090 v -5" />
+    <path d="M 780 1090 v -5" />
+    <path d="M 790 1090 v -18" />
+    <path d="M 800 1090 v -5" />
+    <path d="M 810 1090 v -5" />
+    <path d="M 820 1090 v -5" />
+    <path d="M 830 1090 v -5" />
+    <path d="M 840 1090 v -11" />
+    <path d="M 850 1090 v -5" />
+    <path d="M 860 1090 v -5" />
+    <path d="M 870 1090 v -5" />
+    <path d="M 880 1090 v -5" />
+    <path d="M 890 1090 v -18" />
+    <path d="M 900 1090 v -5" />
+    <path d="M 910 1090 v -5" />
+    <path d="M 920 1090 v -5" />
+    <path d="M 930 1090 v -5" />
+    <path d="M 940 1090 v -11" />
+    <path d="M 950 1090 v -5" />
+    <path d="M 960 1090 v -5" />
+    <path d="M 970 1090 v -5" />
+    <path d="M 980 1090 v -5" />
+    <path d="M 990 1090 v -18" />
+    <path d="M 1000 1090 v -5" />
+    <path d="M 1010 1090 v -5" />
+    <path d="M 1020 1090 v -5" />
+    <path d="M 1030 1090 v -5" />
+    <path d="M 1040 1090 v -11" />
+    <path d="M 1050 1090 v -5" />
+    <path d="M 1060 1090 v -5" />
+    <path d="M 1070 1090 v -5" />
+    <path d="M 1080 1090 v -5" />
+    <path d="M 1090 1090 v -18" />
+    <path d="M 65 130 h 18" />
+    <path d="M 65 140 h 5" />
+    <path d="M 65 150 h 5" />
+    <path d="M 65 160 h 5" />
+    <path d="M 65 170 h 5" />
+    <path d="M 65 180 h 11" />
+    <path d="M 65 190 h 5" />
+    <path d="M 65 200 h 5" />
+    <path d="M 65 210 h 5" />
+    <path d="M 65 220 h 5" />
+    <path d="M 65 230 h 18" />
+    <path d="M 65 240 h 5" />
+    <path d="M 65 250 h 5" />
+    <path d="M 65 260 h 5" />
+    <path d="M 65 270 h 5" />
+    <path d="M 65 280 h 11" />
+    <path d="M 65 290 h 5" />
+    <path d="M 65 300 h 5" />
+    <path d="M 65 310 h 5" />
+    <path d="M 65 320 h 5" />
+    <path d="M 65 330 h 18" />
+    <path d="M 65 340 h 5" />
+    <path d="M 65 350 h 5" />
+    <path d="M 65 360 h 5" />
+    <path d="M 65 370 h 5" />
+    <path d="M 65 380 h 11" />
+    <path d="M 65 390 h 5" />
+    <path d="M 65 400 h 5" />
+    <path d="M 65 410 h 5" />
+    <path d="M 65 420 h 5" />
+    <path d="M 65 430 h 18" />
+    <path d="M 65 440 h 5" />
+    <path d="M 65 450 h 5" />
+    <path d="M 65 460 h 5" />
+    <path d="M 65 470 h 5" />
+    <path d="M 65 480 h 11" />
+    <path d="M 65 490 h 5" />
+    <path d="M 65 500 h 5" />
+    <path d="M 65 510 h 5" />
+    <path d="M 65 520 h 5" />
+    <path d="M 65 530 h 18" />
+    <path d="M 65 540 h 5" />
+    <path d="M 65 550 h 5" />
+    <path d="M 65 560 h 5" />
+    <path d="M 65 570 h 5" />
+    <path d="M 65 580 h 11" />
+    <path d="M 65 590 h 5" />
+    <path d="M 65 600 h 5" />
+    <path d="M 65 610 h 5" />
+    <path d="M 65 620 h 5" />
+    <path d="M 65 630 h 18" />
+    <path d="M 65 640 h 5" />
+    <path d="M 65 650 h 5" />
+    <path d="M 65 660 h 5" />
+    <path d="M 65 670 h 5" />
+    <path d="M 65 680 h 11" />
+    <path d="M 65 690 h 5" />
+    <path d="M 65 700 h 5" />
+    <path d="M 65 710 h 5" />
+    <path d="M 65 720 h 5" />
+    <path d="M 65 730 h 18" />
+    <path d="M 65 740 h 5" />
+    <path d="M 65 750 h 5" />
+    <path d="M 65 760 h 5" />
+    <path d="M 65 770 h 5" />
+    <path d="M 65 780 h 11" />
+    <path d="M 65 790 h 5" />
+    <path d="M 65 800 h 5" />
+    <path d="M 65 810 h 5" />
+    <path d="M 65 820 h 5" />
+    <path d="M 65 830 h 18" />
+    <path d="M 65 840 h 5" />
+    <path d="M 65 850 h 5" />
+    <path d="M 65 860 h 5" />
+    <path d="M 65 870 h 5" />
+    <path d="M 65 880 h 11" />
+    <path d="M 65 890 h 5" />
+    <path d="M 65 900 h 5" />
+    <path d="M 65 910 h 5" />
+    <path d="M 65 920 h 5" />
+    <path d="M 65 930 h 18" />
+    <path d="M 65 940 h 5" />
+    <path d="M 65 950 h 5" />
+    <path d="M 65 960 h 5" />
+    <path d="M 65 970 h 5" />
+    <path d="M 65 980 h 11" />
+    <path d="M 65 990 h 5" />
+    <path d="M 65 1000 h 5" />
+    <path d="M 65 1010 h 5" />
+    <path d="M 65 1020 h 5" />
+    <path d="M 65 1030 h 18" />
+    <path d="M 65 1040 h 5" />
+    <path d="M 65 1050 h 5" />
+    <path d="M 65 1060 h 5" />
+    <path d="M 65 1070 h 5" />
+    <g opacity="0.72">
+    <circle cx="300" cy="330" r="45" />
+    <circle cx="300" cy="330" r="75" />
+    <circle cx="300" cy="330" r="120" />
+    <circle cx="300" cy="330" r="190" />
+    <circle cx="300" cy="330" r="285" />
+    <circle cx="490" cy="330" r="190" />
+    <path d="M 15 330 H 745 M 300 35 V 645" stroke-dasharray="9 6 2 6" opacity="0.6"/>
+    <path d="M 300 45 L 680 330 L 300 615 M 300 330 L 490 330" />
+    <circle cx="300" cy="330" r="3" fill="#C4C9D4"/>
+    <circle cx="490" cy="330" r="3" fill="#C4C9D4"/>
+    <circle cx="300" cy="45" r="3" fill="#C4C9D4"/>
+    <circle cx="300" cy="615" r="3" fill="#C4C9D4"/>
+    <circle cx="680" cy="330" r="3" fill="#C4C9D4"/>
+    </g>
+    <!-- Sparse angle guide with an inner ring and radial construction lines. -->
+    <g opacity="0.7">
+      <path d="M 865 925 A 135 135 0 0 1 1000 790"/>
+      <path d="M 750 925 A 250 250 0 0 1 1000 675"/>
+      <path d="M 735 925 H 1000 V 660" opacity="0.6"/>
+      <path d="M 760.00 925.00 L 750.00 925.00"/>
+      <path d="M 768.18 862.88 L 758.52 860.30"/>
+      <path d="M 792.15 805.00 L 783.49 800.00"/>
+      <path d="M 830.29 755.29 L 823.22 748.22"/>
+      <path d="M 880.00 717.15 L 875.00 708.49"/>
+      <path d="M 937.88 693.18 L 935.30 683.52"/>
+      <path d="M 1000.00 685.00 L 1000.00 675.00"/>
+      <path d="M 1000 925 L 692.56 747.50" opacity="0.55"/>
+      <path d="M 1000 925 L 748.98 673.98" opacity="0.55"/>
+      <path d="M 1000 925 L 822.50 617.56" opacity="0.55"/>
+      <circle cx="1000" cy="925" r="3"/>
+    </g>
+    <path d="M 161 730 h 18 M 170 721 v 18" opacity="0.65"/>
+    <circle cx="170" cy="730" r="1.8" />
+    <path d="M 561 730 h 18 M 570 721 v 18" opacity="0.65"/>
+    <circle cx="570" cy="730" r="1.8" />
+    <path d="M 781 150 h 18 M 790 141 v 18" opacity="0.65"/>
+    <circle cx="790" cy="150" r="1.8" />
+    <path d="M 781 500 h 18 M 790 491 v 18" opacity="0.65"/>
+    <circle cx="790" cy="500" r="1.8" />
+    <path d="M 171 1025 h 18 M 180 1016 v 18" opacity="0.65"/>
+    <circle cx="180" cy="1025" r="1.8" />
+    <path d="M 1101 550 h 18 M 1110 541 v 18" opacity="0.65"/>
+    <circle cx="1110" cy="550" r="1.8" />
+    <path d="M 170 755 V 805 M 570 755 V 805 M 170 790 H 345 M 395 790 H 570" opacity="0.75"/>
+    <path d="M 177 783 l -14 14 M 577 783 l -14 14" />
+  </g>
+  <g fill="#C4C9D4" opacity="0.8" font-family="monospace" font-size="11" letter-spacing="1" text-anchor="middle">
+    <text x="90" y="1115" >00</text>
+    <text x="190" y="1115" >10</text>
+    <text x="290" y="1115" >20</text>
+    <text x="390" y="1115" >30</text>
+    <text x="490" y="1115" >40</text>
+    <text x="590" y="1115" >50</text>
+    <text x="690" y="1115" >60</text>
+    <text x="790" y="1115" >70</text>
+    <text x="890" y="1115" >80</text>
+    <text x="990" y="1115" >90</text>
+    <text x="1090" y="1115" >100</text>
+    <text x="42" y="134" >00</text>
+    <text x="42" y="234" >10</text>
+    <text x="42" y="334" >20</text>
+    <text x="42" y="434" >30</text>
+    <text x="42" y="534" >40</text>
+    <text x="42" y="634" >50</text>
+    <text x="42" y="734" >60</text>
+    <text x="42" y="834" >70</text>
+    <text x="42" y="934" >80</text>
+    <text x="42" y="1034" >90</text>
+    <text x="729.0" y="929.0" >0°</text>
+    <text x="808.37" y="737.37" >45°</text>
+    <text x="1000.0" y="658.0" >90°</text>
+    <text x="370" y="794" >40.0</text>
+    <text x="300" y="660" >Ø 38 / R 19</text>
+    <text x="790" y="130" font-size="13">A</text>
+    <text x="1110" y="530" font-size="13">B</text>
+  </g>
+</svg>
